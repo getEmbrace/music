@@ -56,7 +56,7 @@ export default {
   right: 0;
 }
 .songList {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100vw;
   height: 70vh;
